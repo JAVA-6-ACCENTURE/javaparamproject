@@ -4,6 +4,4 @@ public class JavaArgumentTest{
 		String numArg = args[0];
 		System.out.println("Argument is: "+numArg.toUpperCase());
 	}
-	
-	
 }
