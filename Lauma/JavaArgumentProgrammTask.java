@@ -1,8 +1,7 @@
-public class JavaArgumentProgramm{
+public class JavaArgumentProgrammTask {
 	
 	public static void main(String[] args){
-		String numArg = args[0];
-		System.out.println("First argument value is: " + numArg);
+		String name = "Lauma";
+		System.out.println("My name is: " + name.toUpperCase());
 	}
-	
 }
