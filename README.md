@@ -27,6 +27,7 @@ Sub task what you need create in your working branch is:
  7. After good working on your mashine please commit and push to remote using comands:
  
 >git add .
+
 >git commit -m "<YOUR TEXT OF COMMIT"
 
 >git push -u origin feature/<YOUR BRANCH NAME> 
