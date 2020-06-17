@@ -28,6 +28,7 @@ Sub task what you need create in your working branch is:
  
 >git add .
 >git commit -m "<YOUR TEXT OF COMMIT"
+
 >git push -u origin feature/<YOUR BRANCH NAME> 
   
  
